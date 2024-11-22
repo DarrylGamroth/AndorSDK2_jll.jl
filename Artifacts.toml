@@ -1,0 +1,18 @@
+[[AndorSDK2]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "ec21e45f2e33feeb8be3d78aa162f14a36b7b752"
+os = "windows"
+
+    [[AndorSDK2.download]]
+    sha256 = "b5cafc26fd7fa92f3478d2fc7e4d1c640f4b1bf32b37795293012820cded46ba"
+    url = "https://github.com/DarrylGamroth/AndorSDK2_jll.jl/releases/download/AndorSDK2-v2.104.30065+0/AndorSDK2.v2.104.30065.i686-w64-mingw32-cxx03.tar.gz"
+[[AndorSDK2]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "5cd0d01b3b8708052320f9c576f183e43794aff3"
+os = "windows"
+
+    [[AndorSDK2.download]]
+    sha256 = "78691fc44f716eacf42867a39f728bcf8f3a905d7d2618a0abe05f3d6d6848f3"
+    url = "https://github.com/DarrylGamroth/AndorSDK2_jll.jl/releases/download/AndorSDK2-v2.104.30065+0/AndorSDK2.v2.104.30065.x86_64-w64-mingw32-cxx03.tar.gz"
