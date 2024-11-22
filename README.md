@@ -18,7 +18,9 @@ The tarballs for `AndorSDK2_jll.jl` have been built from these sources:
 `AndorSDK2_jll.jl` is available for the following platforms:
 
 * `Windows i686 {cxxstring_abi=cxx03}` (`i686-w64-mingw32-cxx03`)
+* `Windows i686 {cxxstring_abi=cxx11}` (`i686-w64-mingw32-cxx11`)
 * `Windows x86_64 {cxxstring_abi=cxx03}` (`x86_64-w64-mingw32-cxx03`)
+* `Windows x86_64 {cxxstring_abi=cxx11}` (`x86_64-w64-mingw32-cxx11`)
 
 ## Dependencies
 
