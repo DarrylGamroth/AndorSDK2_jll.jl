@@ -12,7 +12,6 @@ The tarballs for `AndorSDK2_jll.jl` have been built from these sources:
 
 * file: ./bundled/AndorDriverPack2Setup-2.104.30065.0.exe (SHA256 checksum: `34f5f0db54852d052dfa9b7dbadb4b2bb355806513b9a0babf5908b9fc4c6b01`)
 * file: ./bundled/atmcd32d.h (SHA256 checksum: `d81c0e8edb56179ccdfd10ced1f2c139ee463687e6400adde269f579c2e34ac6`)
-* file: ./bundled/atmcdLXd.h (SHA256 checksum: `168c768dcf8fb5cf641c3973d027f89eae356709eef60a421ebf206be8ca1deb`)
 
 ## Platforms
 
