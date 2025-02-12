@@ -1,6 +1,6 @@
 name = "AndorSDK2_jll"
 uuid = "bf3b237f-d17d-557f-97f1-1eb158fbe9f2"
-version = "2.104.30065+0"
+version = "2.104.30065+1"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
